@@ -1,0 +1,29 @@
+.hw {
+  width: 400px;
+  text-align: justify;
+  line-height: 30px;
+  text-indent: 30px;
+}
+.hh {
+  color: blue;
+  text-align: center;
+  font: bold;
+}
+#id1 {
+  font-size: 20px;
+}
+#id2 {
+  font-size: 15px;
+}
+.class_red {
+  color: red;
+  /* Я не нашла причину почему у меня с красным цветом не получилось сделать слова жирным шрифтом. Текст голубым с курсивом делала так же и все вышло. */
+  font: bold;
+}
+.class_blue {
+  color: blue;
+  font-style: italic;
+}
+#id3 {
+  text-align: center;
+}
